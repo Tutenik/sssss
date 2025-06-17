@@ -1,0 +1,3 @@
+repository "srot/srot@1375481018568@cloud"
+  path "/"
+    smartbranch "/main"
